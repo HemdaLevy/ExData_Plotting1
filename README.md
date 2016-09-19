@@ -1,3 +1,10 @@
+
+##NOTE: - MY COMMENT (Hemda Levy)
+
+Make sure to run prepare_plots.R first - which creates a smaller data file for the plots to use
+
+
+
 ## Introduction
 
 This assignment uses data from
